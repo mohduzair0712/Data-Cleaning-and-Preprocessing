@@ -1,2 +1,3 @@
 # Data-Cleaning-and-Preprocessing
 Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
+First I downloaded a raw dataset from chatgpt Then I opened the file After that first of all I deleted the blank rows After that I changed the font Then I applied filter First of all I checked the duplicate data Then I filled the blank cells with NA To fill NA I pressed Fn+f5 Then I got the GO TO dialog box Then I clicked on Special Then I clicked on Blanks Then I pressed OK Then all the blank cells got selected Then I filled NA in one cell After that I pressed ctrl+Enter Then all the blank cells got filled with NA After that I formatted the date as DD-MMM-YYYY
